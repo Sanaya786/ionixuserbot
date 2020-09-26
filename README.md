@@ -68,9 +68,9 @@ class Development(Config):
 ```
 ## Groups and support
 
-if you want new features, or announcements, you can follow our [Project Updates Channel](https://t.me/RkProjects).
+if you want new features, or announcements, you can follow our [Project Updates Channel](https://t.me/ionix_updates).
 
-For discussion, bug reporting, and help, you can join [WolfUserBot Support Group](https://t.me/Wolf_User_Bot).
+For discussion, bug reporting, and help, you can join [Ionix userbot support Group](https://t.me/Ionix_support).
 
 ## How to setup Google Drive
 [![SetGDRIVE](https://telegra.ph/file/fde15d05e4bde3448b01a.png)](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
