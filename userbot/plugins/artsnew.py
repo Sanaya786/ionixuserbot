@@ -1,4 +1,4 @@
-#New arts added by @Sur_vivor
+#New arts added by  @Sur_vivor
 import asyncio
 from telethon import events
 from telethon.tl import functions, types
