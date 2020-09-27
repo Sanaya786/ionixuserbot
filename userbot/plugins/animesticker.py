@@ -1,5 +1,5 @@
 #imported from ppe-remix by @heyworld & @DeletedUser420
-#Translated & Updated by @Sur_vivor
+#Translated & Updated  by @Sur_vivor
 from asyncio import sleep
 from random import choice, getrandbits, randint
 import re
