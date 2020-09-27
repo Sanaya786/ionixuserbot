@@ -1,4 +1,4 @@
-"""Fetch App Details from Playstore.
+"""Fetch App Details from  Playstore.
 .app <app_name> to fetch app details.
 Credits @MrConfused
 .appr <app_name>  to fetch app details with request link.
