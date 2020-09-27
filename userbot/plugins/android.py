@@ -42,7 +42,7 @@ async def magisk(request):
 @borg.on(admin_cmd(outgoing=True, pattern=r"device(?: |$)(\S*)"))
 @borg.on(sudo_cmd(pattern="device(?: |$)(\S*)",allow_sudo = True))
 async def device_info(request):
-    """ get android device basic info from its codename """
+    """ get android device  basic info from its codename """
     textx = await request.get_reply_message()
     codename = request.pattern_match.group(1)
     if codename:
