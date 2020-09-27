@@ -1,4 +1,4 @@
-"""Auto Profile Updation Commands
+"""Auto Profile Updation  Commands
 .autoname"""
 from telethon import events
 import asyncio
