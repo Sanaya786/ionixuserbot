@@ -18,7 +18,7 @@ Best User Bot To Manage Your Telegram Account 😎
 
 ### Deploy ionix In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/FridayUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixhackz/ionixuserbot)
 
 ## Telegram-String
 
