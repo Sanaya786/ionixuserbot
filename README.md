@@ -3,7 +3,7 @@
 
 ![logo](https://telegra.ph/file/9f89cca30e7289fe9399f.jpg)
 
-[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://generatestringsession.devagyasharma.repl.run//)
+[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://generatestringsession-1.matrixhackz.repl.run/)
 
 
 [![Build Status](https://travis-ci.com/WolfGangIndia/WolfUserBot.svg?branch=sql-extended)](https://travis-ci.com/WolfGangIndia/WolfUserBot) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/WolfGangIndia/WolfUserBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=WolfGangIndia/WolfUserBot&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/WolfGangIndia/WolfUserBot) ![Contributers](https://img.shields.io/github/contributors/WolfGangIndia/WolfUserBot) ![Forks](https://img.shields.io/github/forks/WolfGangIndia/WolfUserBot)
@@ -27,12 +27,12 @@ Make sure you have an account of heroku and follow all the steps required.
 Deploy to Heroku:
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixhackz/ionixuserbot)
 <p align="center">
-  <a href="https://github.com/WolfGangIndia/WolfUserBo/fork">
+  <a href="https://github.com/matrixhakcz/inoinxuserbot">
     <img src="https://img.shields.io/github/forks/WolfGangIndia/WolfUserBot?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/matrixhackz/ionixuserbot">
-    <img src="https://img.shields.io/github/stars/matrixhackz/Ionixuserbot?style=social">
+    <img src="https://img.shield/matrixhackz/Ionixuserbot?style=social">
   </a>
 </p>
 
