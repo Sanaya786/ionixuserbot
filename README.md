@@ -1,15 +1,12 @@
 # IOИIX UƧƎЯᗺOT
 
 <p align="center">
-<img src="https://telegra.ph/file/ed0e5c4b674b2961e86e0.jpg" alt="IOИIX UƧƎЯᗺOT">
-
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<img src="https://telegra.ph/file/ed0e5c4b674b2961e86e0.jpg" alt="IOИIX UƧƎЯᗺOT
 
 
 
 Best User Bot To Manage Your Telegram Account 😎
-## Most PowerFul Bot ever☺
+## Most Strongest Bot ever☺
 
 ##  In love with #мαтяιχgαηg ;) 
 
